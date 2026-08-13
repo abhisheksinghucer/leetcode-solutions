@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
@@ -21,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -30,4 +32,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
