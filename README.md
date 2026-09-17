@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0179-largest-number](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -56,4 +57,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0523-continuous-subarray-sum](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0179-largest-number](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0179-largest-number](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0179-largest-number](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 <!---LeetCode Topics End-->
