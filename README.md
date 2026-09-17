@@ -14,6 +14,7 @@
 | [0523-continuous-subarray-sum](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +71,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 <!---LeetCode Topics End-->
