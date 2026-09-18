@@ -13,6 +13,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1929-concatenation-of-array](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Hash Table
