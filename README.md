@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -23,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -76,11 +78,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -104,4 +108,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
