@@ -24,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Simulation
@@ -59,6 +60,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0189-rotate-array](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Pigeonhole Principle
@@ -68,6 +70,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0179-largest-number](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
