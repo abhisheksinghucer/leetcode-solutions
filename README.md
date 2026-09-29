@@ -15,6 +15,7 @@
 | [0238-product-of-array-except-self](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -26,6 +27,7 @@
 | [0001-two-sum](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -44,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +88,7 @@
 | [0075-sort-colors](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -105,6 +109,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
