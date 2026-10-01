@@ -10,6 +10,7 @@
 | [0054-spiral-matrix](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0169-majority-element](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0179-largest-number/) | Medium |
 | [0189-rotate-array](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
@@ -144,4 +145,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 <!---LeetCode Topics End-->
