@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0048-rotate-image](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0118-pascals-triangle/) | Easy |
@@ -63,12 +64,14 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/abhisheksinghucer/leetcode-solutions/tree/main/0523-continuous-subarray-sum/) | Medium |
 ## Pigeonhole Principle
